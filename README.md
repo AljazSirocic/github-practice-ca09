@@ -87,3 +87,4 @@
 |55|Sena Salman|29|senasalman|<https://github.com/senasalman/senasalman>|<https://senasalman.netlify.app>|2020-10-08|
 |56|Julien Vermeersch|12|jvermeersch|<https://github.com/jvermeersch/my_website>|<https://julienvermeersch.netlify.app/>|2020-10-08|
 |57|Karan Pandanda|2|karanpandanda|<https://github.com/karanpandanda/final_website_submission>|<https://karanpandanda.netlify.app/>|2020-10-08|
+|58|Aljaz Sirocic|1|AljazSirocic|https://github.com/AljazSirocic/my_website1|<https://aljaz2020.netlify.app/>|2020-10-09|
